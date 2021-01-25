@@ -1,0 +1,8 @@
+Pour que le script marche vous devez allé dans le server.cfg puis faire : 
+ensure drkg_announce 
+
+Puis en jeu la commande est : 
+
+/annonce 
+
+Script by drkg
