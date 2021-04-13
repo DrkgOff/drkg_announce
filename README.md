@@ -1,2 +1,4 @@
 # drkg_announce
-Script d'annonce fait par drkg 
+Script D'annonce 
+Langage : FR
+Author : DRKG
